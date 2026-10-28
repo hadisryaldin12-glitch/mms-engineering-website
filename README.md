@@ -30,4 +30,4 @@ This repository showcases the project for portfolio purposes. Source code is not
 ![Contact](./mms-contact.png)
 
 ### 📱 Mobile View
-![Mobile View](./mms-mobile-view.png)
+![Mobile View](./mms-mobile-view.jpeg)
